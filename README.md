@@ -1,7 +1,7 @@
 ## Hi there 👋
 My name is Gift. I'm a Python and SQL enthusiast.
- 🔭 I’m currently working on a Model for stock price prediction using LSTM/Prophet.
-🧠 I’m currently learning deep learning with PyTorch.
+-🔭 I’m currently working on a Model for stock price prediction using LSTM/Prophet.
+-🧠 I’m currently learning deep learning with PyTorch.
 - 👯 I’m looking to collaborate on open-source  ML projects and impactful real-world data challenges.
 
 <!--
