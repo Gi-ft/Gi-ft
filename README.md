@@ -1,7 +1,7 @@
 ## Hi there 👋
-My name is Gift. I'm a Python and SQL enthusiast.
+My name is Gift. I'm a AI, Python and SQL enthusiast.
 
--🔭 👯 I’m looking to collaborate on open-source  ML projects and impactful real-world data challenges.
+-🔭 👯 I’m looking to collaborate on open-source AI, ML projects and impactful real-world data challenges.
 
 <!--
 **Gi-ft/Gi-ft** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
