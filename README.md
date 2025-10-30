@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Gift. I'm a AI, Python and SQL enthusiast.
+My name is Gift. I'm an AI, Python and SQL enthusiast.
 
 -🔭 👯 I’m looking to collaborate on open-source AI, ML projects and impactful real-world data challenges.
 
