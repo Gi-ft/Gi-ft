@@ -2,7 +2,7 @@
 
 I am a **Python Data Engineer & Automation Specialist**. I build end-to-end data pipelines that help businesses save time and scale by extracting messy web data, automating formatting pipelines, and feeding production-ready datasets straight into relational databases.
 
-🌐 **Check out my live portfolio:** [your-vercel-link.vercel.app](https://vercel.app](https://portfolio-seven-green-rqtz5m7e6d.vercel.app/))  
+🌐 **Check out my live portfolio:** [your-vercel-link.vercel.app](https://vercel.app](https://portfolio-seven-green-rqtz5m7e6d.vercel.app))  
 
 
 ---
@@ -29,6 +29,6 @@ A lightweight analytics pipeline that processes raw corporate lead tables, struc
 ### 🤝 Let's Collaborate!
 - 🔭 **I’m looking to collaborate on:** Open-source AI, ML projects and impactful real-world data challenges.
 - 💬 **Ask me about:** Automating your messy business spreadsheets, advanced web scraping, or structural database optimization.
-- 📫 **How to reach me:** Drop me an email at [your.email@example.com] or message me directly on LinkedIn.
+- 📫 **How to reach me:** Drop me an email at [willgift61@gmail.com].
 
 *"Building data architectures that prioritize system reliability and efficiency."*
