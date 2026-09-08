@@ -19,16 +19,6 @@ I am a **Python, Artificial Intelligence, Data Engineer & Automation Enthusiast*
 
 ---
 
-### 🚀 Projects I’m Currently Building & Hosting
-
-#### 📦 [E-Commerce Price Tracker & Live Pipeline](LINK_TO_YOUR_SCRAPER_REPO)
-An automated script leveraging `Selenium` to safely navigate web-blocking frameworks, parse 5,000+ items daily, handle automated deduplication with `pandas`, and upsert records into a live SQL database.
-
-#### 📊 [Predictive Lead Scoring Engine](LINK_TO_YOUR_ML_REPO)
-A lightweight analytics pipeline that processes raw corporate lead tables, structures behavioral events using `pandas`, and runs a custom `scikit-learn` classification algorithm to rank sales priority scores.
-
----
-
 ### 🤝 Let's Collaborate!
 - 🔭 **I’m looking to collaborate on:** Open-source AI, ML projects and impactful real-world data challenges.
 - 💬 **Ask me about:** Automating your messy business spreadsheets, advanced web scraping, or structural database optimization.
