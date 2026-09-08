@@ -1,6 +1,6 @@
 # Hi there 👋 My name is Gift.
 
-I am a **Python, Artificial Intelligence, Data Engineer & Automation Enthusaist **. I build end-to-end data pipelines that help businesses save time and scale by extracting messy web data, automating formatting pipelines, and feeding production-ready datasets straight into relational databases.
+I am a **Python, Artificial Intelligence, Data Engineer & Automation Enthusiast**. I build end-to-end data pipelines that help businesses save time and scale by extracting messy web data, automating formatting pipelines, and feeding production-ready datasets straight into relational databases.
 
 🌐 **Check out my live portfolio:**  https://portfolio-seven-green-rqtz5m7e6d.vercel.app/
 
@@ -9,10 +9,25 @@ I am a **Python, Artificial Intelligence, Data Engineer & Automation Enthusaist 
 
 ### 🛠️ My Technical Stack
 
-*   **Data Extraction:** `Selenium` | `BeautifulSoup` | Web Scraping Pipelines
-*   **Data Processing & Analytics:** `pandas` | `numpy` | `scikit-learn`
-*   **Databases & Warehousing:** `SQL` (PostgreSQL / MySQL)
-*   **Business Intelligence & Reports:** `Power BI` | `seaborn` | `matplotlib`
+#### 🌐 Data Extraction & Automation
+![Python](https://shields.io)
+![Selenium](https://shields.io)
+
+#### 🧹 Data Processing & Analytics
+![pandas](https://shields.io)
+![NumPy](https://shields.io)
+![scikit-learn](https://shields.io)
+
+#### 🗄️ Databases & Warehousing
+![SQL](https://shields.io)
+![MySQL](https://shields.io)
+![PostgreSQL](https://shields.io)
+
+#### 📊 Business Intelligence & Reporting
+![Power Bi](https://shields.io)
+
+---
+
 
 ---
 
