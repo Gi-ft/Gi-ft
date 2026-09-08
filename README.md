@@ -9,22 +9,10 @@ I am a **Python, Artificial Intelligence, Data Engineer & Automation Enthusiast*
 
 ### 🛠️ My Technical Stack
 
-#### 🌐 Data Extraction & Automation
-![Python](https://shields.io)
-![Selenium](https://shields.io)
-
-#### 🧹 Data Processing & Analytics
-![pandas](https://shields.io)
-![NumPy](https://shields.io)
-![scikit-learn](https://shields.io)
-
-#### 🗄️ Databases & Warehousing
-![SQL](https://shields.io)
-![MySQL](https://shields.io)
-![PostgreSQL](https://shields.io)
-
-#### 📊 Business Intelligence & Reporting
-![Power Bi](https://shields.io)
+*   **Data Extraction:** `Selenium` | `BeautifulSoup` | Web Scraping Pipelines
+*   **Data Processing & Analytics:** `pandas` | `numpy` | `scikit-learn`
+*   **Databases & Warehousing:** `SQL` (PostgreSQL / MySQL)
+*   **Business Intelligence & Reports:** `Power BI` | `seaborn` | `matplotlib`
 
 ---
 
