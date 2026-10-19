@@ -10,7 +10,7 @@ I’m a data scientist and Python builder focused on the space between **analysi
 
 ## What I build
 
-- **Predictive systems** — football outcome and title-race simulations, customer-churn prediction, and model experimentation.
+- **Predictive systems** — predictions e.g. football outcome and title-race simulations, customer-churn prediction, and model experimentation.
 - **Data pipelines** — web extraction, cleaning, validation, transformation, and database loading.
 - **Decision tools** — analytical notebooks, dashboards, visualizations, and repeatable workflows that make model output understandable.
 - **Automation** — systems that reduce repetitive work and move data from source to insight with less friction.
