@@ -45,4 +45,4 @@ I’m open to collaborating on practical machine-learning projects, open-source 
 
 **Ask me about:** Python automation, web-scraping pipelines, SQL data systems, model evaluation, or turning a notebook into a usable tool.
 
-[Portfolio](https://portfolio-seven-green-rqtz5m7e6d.vercel.app/) · [Email me](mailto:willgift61@gmail.com)
+[Portfolio](portfolio-ltbb.vercel.app) · [Email me](mailto:willgift61@gmail.com)
