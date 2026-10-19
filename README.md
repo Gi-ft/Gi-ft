@@ -1,7 +1,7 @@
 # Gift | Data Scientist & Machine Learning Builder
 
 <a href="https://github.com/Gi-ft"><img src="https://img.shields.io/badge/GitHub-Gi--ft-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-<a href="https://portfolio-seven-green-rqtz5m7e6d.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A7EA4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://portfolio-ltbb.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0A7EA4?style=flat-square&logo=vercel&logoColor=white" alt="Portfolio" /></a>
 <a href="mailto:willgift61@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 
 > I turn messy real-world data into models, systems, and decisions people can actually use.
@@ -45,4 +45,4 @@ I’m open to collaborating on practical machine-learning projects, open-source 
 
 **Ask me about:** Python automation, web-scraping pipelines, SQL data systems, model evaluation, or turning a notebook into a usable tool.
 
-[Portfolio](portfolio-ltbb.vercel.app) · [Email me](mailto:willgift61@gmail.com)
+[Portfolio](https://portfolio-ltbb.vercel.app/) · [Email me](mailto:willgift61@gmail.com)
