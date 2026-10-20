@@ -6,7 +6,7 @@
 
 > I turn messy real-world data into models, systems, and decisions people can actually use.
 
-I’m a data scientist and Python builder focused on the space between **analysis and delivery**: collecting imperfect data, designing useful features, training practical models, and connecting the results to databases, dashboards, and automation.
+I’m a junior data scientist and Python builder focused on the space between **analysis and delivery**: collecting imperfect data, designing useful features, training practical models, and connecting the results to databases, dashboards, and automation.
 
 ## What I build
 
